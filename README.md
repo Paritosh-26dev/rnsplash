@@ -1,4 +1,4 @@
-# Waller
+# Rnsplash
 
 > Set the desktop wallpaper from Unsplash API
 
@@ -13,8 +13,8 @@
 1. Clone the directory or download the directory as a zip file<br>
 
 ```sh
-$ git clone https://github.com/skbro/Waller.git
-$ cd Waller
+$ git clone https://github.com/Paritosh-26dev/rnsplash.git
+$ cd rnsplash
 ```
 2. Install all required Dependencies
 ```sh
