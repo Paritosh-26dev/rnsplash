@@ -74,21 +74,3 @@ Commands:
  **Solution**: Need to change PATH in .profile file.
  - **Problem**: Unsplash API requires fetch which is a browser API.<br/>
  **Solution**: Used 'node-fetch' and required it in lib folder of unsplash-js.
-
-
-## Plans
-
- - [ ] Write Tests
-
-### If user doesn't has Unsplash token
- - [ ] Use backup img.
-
-### When User has token 
- - [ ] Allow user to follow collections and Users.
-
- ### Features
-  - [ ] Allow data uri to be added in url option (look for content type headers)
-  - [ ] Add file url
-  - [ ] Improve random option
-  - [ ] Automate checks for folders and files
-  - [ ] Can we get auto startup on network connect?
